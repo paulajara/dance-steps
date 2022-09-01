@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="IRz4A$_}$j-g-]Jt}8RM" x="33" y="27"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="!oA-qOQ$MhKMJG*FCu7#"><value name="TIMES"><shadow type="math_whole_number" id="KNVZ`R4l77![N!7?QT~{"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="$8UFOqXGvotU|5^rs:6M"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="vd~h8xMzY[`p`jwf{0G5"><value name="pause"><shadow type="timePicker" id="V.MSa=}=+z3PI=3*soUw"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="q_gpp{N^@~|E}JYbmYE9"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="w-2:VBD;oofKjB^WzEn^"><value name="pause"><shadow type="timePicker" id="uSn!)pI@^{aBor5+hL$W"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="m*xYh:zE9r3,nlMu}M3$"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="+V*tg1qG@f!2kd/5dKd@"><value name="pause"><shadow type="timePicker" id="{11U1j0R0_w1O[a*tLfu"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="IC]g7oxy3$WY5fg/LS*P"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # . # . # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="CvHJE[D0(4Y_bgyuDW_{"><value name="pause"><shadow type="timePicker" id="QB8!;z!H.6|0nK0~|.$5"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block></xml>
